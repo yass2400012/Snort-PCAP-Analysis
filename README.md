@@ -96,8 +96,8 @@ ping -c 4 127.0.0.1
 
 Place screenshots in screenshots/ and reference inline if desired:
 
-![Snort Rule Created](Snort%20rule%20created.PNG)
-![Ping Detected](Snort%20rule%20Ping%20detected.PNG)
+![Snort Rule Created](Snort/Snort%20rule%20created.PNG)
+![Ping Detected](Snort/Snort%20rule%20Ping%20detected.PNG)
 ![PCAP Analysis](Snort/Snort%20PCAP%20analysis.PNG)
 
 
