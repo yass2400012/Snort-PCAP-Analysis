@@ -111,7 +111,7 @@ Place screenshots in screenshots/ and reference inline if desired:
 
 
 ## Skills Learned
-• writing and validating Snort rules — useful for SOC/IDS positions.
+• writing and validating Snort rules.
 
 • Threat detection validation: ensuring alerts map correctly to observed network activity.
 
